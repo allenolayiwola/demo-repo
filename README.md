@@ -9,3 +9,4 @@ Watch Mr Marcaroni on YouTube!
 # local environment
 
 1. Open the index.html in your browser
+2. Have fun!
